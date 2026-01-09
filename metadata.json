@@ -1,0 +1,5 @@
+{
+  "name": "PosterForge V1.1.0",
+  "description": "A precision poster PDF generator that tiles large images across multiple pages, inspired by PosteRazor. Features real-time preview, unit conversion, and multi-language support.",
+  "requestFramePermissions": []
+}
